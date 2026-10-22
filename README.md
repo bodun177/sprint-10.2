@@ -12,7 +12,7 @@ The start screen looks like this:
 
 The headings, the **Show protected information if** link, the number input, and the checkbox must stay visible on every route you add. Only the extra content of each subtask should appear after navigation.
 
-Exact text in the examples matters: tests look for these strings inside a `div`.
+Exact text in the examples matters: tests look for these strings inside a `div` .
 
 ### Getting started
 
